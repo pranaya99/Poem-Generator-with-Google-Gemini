@@ -1,6 +1,6 @@
 #  Poem Generator with Google Gemini 
 
-A ReactxVite web application that generates beautiful poems using Google Gemini AI. Watch as new poems appear every 30 seconds! 
+A React web application that generates beautiful poems using Google Gemini AI. Watch as new poems appear every 30 seconds! 
 
 
 ## ✨ Features
